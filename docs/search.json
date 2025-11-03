@@ -1,91 +1,189 @@
 [
   {
-    "objectID": "ostrova-2-link_md.html",
-    "href": "ostrova-2-link_md.html",
+    "objectID": "sdvinem/ostrova-2-link_md.html",
+    "href": "sdvinem/ostrova-2-link_md.html",
     "title": "Острова Острова Острова Острова Архипелаг Острова",
     "section": "",
     "text": "Описание\nMD\nПример заимствован из книги …\nчтобы вставить как ссылку"
   },
   {
-    "objectID": "nounderscore_name.html",
-    "href": "nounderscore_name.html",
-    "title": "",
+    "objectID": "sdvinem/nounderscore_name.html",
+    "href": "sdvinem/nounderscore_name.html",
+    "title": "zadachi posts github",
     "section": "",
     "text": ". . .\nВставляем короткий файл\nна 4 октября опубликовано …"
   },
   {
-    "objectID": "nounderscore_name.html#задачи-1-10",
-    "href": "nounderscore_name.html#задачи-1-10",
-    "title": "",
+    "objectID": "sdvinem/nounderscore_name.html#задачи-1-10",
+    "href": "sdvinem/nounderscore_name.html#задачи-1-10",
+    "title": "zadachi posts github",
     "section": "Задачи 1-10",
     "text": "Задачи 1-10\n\n\nЗадача 1\n​ Показать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид \\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\n\nНаписать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\n\n\n\n\nЗадача 2\nПостроить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), при разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\n\n\n\nЗадача 5\nРассматривается случайная величина \\[\n\\xi=\\sum_{j=1}^{12} U_j-6,\n\\] где \\(U_j,\\quad  j=1, \\ldots, 12,\\) - независимые случайные величины, распределенные равномерно на отрезке \\([0,1]\\).\nКонец короткого файла\n\n. . ."
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html",
+    "objectID": "posts/wlc/working/index.html",
+    "href": "posts/wlc/working/index.html",
+    "title": "Что готово и в каком виде ?",
+    "section": "",
+    "text": "to test\n\n2010-01-04\n\n\n\n\nЗадачи индивидуальные\nЗадачи 1- 3 здесь\n4 ю отскриншотить у Баринова\nНачало задачи 5 в quatro\nЗадача 5-6 = страница 3 в новом гугл докусенте\nред.25 _ таблица индивидуальных  заданий (МагоЛего 2024)  Избр р Ст Мод   (А.Д.  Манита) pub\nlink\nhttps://docs.google.com/document/d/1sZYGwpoCKQQpGdvCUniOzy_qhN0vkpi2gA0NPPVNFu8/edit?tab=t.0\nМожно просто выдрать PDF, а можно через матпикс\n\n\n\nдля индивидуальных задач\nчтобы не появлялся баннер,\nи не нужная для индивидуальных задач верхняя полоска с навигацией navbar\nкомментарим и редактируем в\nd:\\a\\q\\zadachi-4t\\posts\\wlc\\iz03-7-t24\\index.md\nd:\\a\\q\\zadachi-4t\\posts\\_metadata.yml\nd:\\a\\q\\zadachi-4t\\_quarto.yml\n\n\nindex\nSubfolder\nposts\\welcome\\subpost1\\\nc:\\Users\\M_local_ADM\\py_nb_local\\my_quarto\\models-4t\\posts\\welcome\\subpost1\\comm_index._qmd\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/wlc/iz03-8-t24/index.html",
+    "href": "posts/wlc/iz03-8-t24/index.html",
+    "title": "Задача 8а - 8б (генерация в духе метода фон Неймана)",
+    "section": "",
+    "text": "2025-08-21\n\n\n\n\nЗадачи 8а - 8б\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "posts/wlc/iz02-5to6-t24/index3t.html",
+    "href": "posts/wlc/iz02-5to6-t24/index3t.html",
+    "title": "Генерация N(0,1) - приближенный, но весьма экономный, способ",
+    "section": "",
+    "text": "2025-08-21\n\n\n\n\nЗадача 5\nРассматривается случайная величина \\[\n\\xi=\\sum_{j=1}^{12} U_j-6,\n\\] где \\(U_j,\\quad  j=1, \\ldots, 12,\\) - независимые случайные величины, распределенные равномерно на отрезке \\([0,1]\\).\nОказывается, что случайная величина \\(\\xi\\) может быть хорошим приближением для стандартного нормального распределения.\n0-я грубая прикидка.\nМатематическое ожидание \\[\nE \\xi=\\sum_{j=1}^{12} E U_j-E 6=12 \\times \\frac{1}{2}-6=0.\n\\] Дисперсия (в силу независимости \\(U_j\\)) \\[\nD \\xi=\\sum_{j=1}^{12} D U_j = 12 \\times \\frac{1}{12}=1.\n\\] Но по этим признакам, конечно, нельзя судить про близость распределений.\n\nРазличие между распределениями можно оценивать\n\nв метриках (их существует много), получая количественное представление о приближении\nили визуально с помощью чертежей, т.е., качественно\n\n\nИнтуитивное пояснение, почему распределение \\(\\xi\\) близко \\(\\mathcal{N}(0,1)\\), базируется на центральной предельной теореме."
+  },
+  {
+    "objectID": "posts/wlc/iz01-1to4-mp-24/index_mp24_p2.html",
+    "href": "posts/wlc/iz01-1to4-mp-24/index_mp24_p2.html",
+    "title": "Задачи 1-4…",
+    "section": "",
+    "text": "2025-08-21\nна 4 октября опубликовано …"
+  },
+  {
+    "objectID": "posts/wlc/iz01-1to4-mp-24/index_mp24_p2.html#задачи-1-10",
+    "href": "posts/wlc/iz01-1to4-mp-24/index_mp24_p2.html#задачи-1-10",
+    "title": "Задачи 1-4…",
+    "section": "Задачи 1-10",
+    "text": "Задачи 1-10"
+  },
+  {
+    "objectID": "posts/wlc/index.html",
+    "href": "posts/wlc/index.html",
+    "title": "Индивидуальные задания",
+    "section": "",
+    "text": "2025-08-01\n\n\n\nThis is the first post in a Quarto blog. Welcome!\n![](thumbnail.jpg)\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\n\n\n\n\n\n\n\nDate\n\n\n\nСюжет wlc\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n \n\n\nЗадача 7 (В обоснование техники Box-Muller’а)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-4…\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nГенерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадача 8а - 8б (генерация в духе метода фон Неймана)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадача 9а - 9б (о свойствах распределения Коши)\n\n\n \n\n\n\n\n\n\nJan 4, 2010\n\n\nЧто готово и в каком виде ?\n\n\nto test\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Задачи 1-2 - Gamma распределение I\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 1-4…\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nГенерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nИндивидуальные задания\n\n\n\n\n\nAug 1, 2025\n\n\n\n\n\n\n\nЧто готово и в каком виде ?\n\n\n\n\n\nJan 4, 2010\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Здесь определения и коротие описания некоторых моделей и некоторых важных примеров"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "zadachi для t",
+    "section": "",
+    "text": "Date\n\n\n\nСюжет\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n \n\n\nЗадача 7 (В обоснование техники Box-Muller’а)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-4…\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nГенерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадача 8а - 8б (генерация в духе метода фон Неймана)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадача 9а - 9б (о свойствах распределения Коши)\n\n\n \n\n\n\n\n\n\nAug 1, 2025\n\n\nИндивидуальные задания\n\n\n \n\n\n\n\n\n\nJan 4, 2010\n\n\nЧто готово и в каком виде ?\n\n\nto test\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/wlc/iz01-1to2-t24/index_mp24_p2_edit.html",
+    "href": "posts/wlc/iz01-1to2-t24/index_mp24_p2_edit.html",
+    "title": "Задачи 1-2 - Gamma распределение I",
+    "section": "",
+    "text": "2025-08-21"
+  },
+  {
+    "objectID": "posts/wlc/iz01-1to2-t24/index_mp24_p2_edit.html#gamma-распределение---вводные-задачи",
+    "href": "posts/wlc/iz01-1to2-t24/index_mp24_p2_edit.html#gamma-распределение---вводные-задачи",
+    "title": "Задачи 1-2 - Gamma распределение I",
+    "section": "Gamma распределение - вводные задачи",
+    "text": "Gamma распределение - вводные задачи\n\n\nЗадача 1\nГамма-распределение \\(\\text{Gamma}\\left(n, \\alpha\\right)\\) с параметрами \\(n\\in\\mathbb{N}\\), \\(\\alpha&gt;0\\), по определению есть распределение с.в. \\(\\xi\\), представимой в виде\n\\[\n\\xi=\\eta_{1}+\\cdots+\\eta_{n} \\quad \\text {где } \\eta_{1}, \\ldots,  \\eta_{n}\n\\text {  - независимые  Exp($\\alpha$) с.в-ны }\n\\]\n\nПоказать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид\n\n\\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\nб) Написать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\nв) Выясните, какой командой вызывается \\(\\Gamma(t)\\) в компьютерном пакете, который Вы предпочитаете. Как вычислять её значения в Google Sheets ?\n\n\n\nЗадача 2\nа) Построить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), \\[\n\\begin{aligned}\n& p_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\end{aligned}\n\\]\nпри разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\nб) Предположим, у нас есть программный код, предоставляющий генератор псевдослучайных чисел (ПСЧ) \\[\nX_1,\\ldots,X_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(5, 1\\right)\\)​. Придумайте наиболее простой способ получения ПСЧ \\[\nY_1,\\ldots,Y_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(10, 2\\right)\\). Ответ обоснуйте."
+  },
+  {
+    "objectID": "posts/wlc/iz02-5to6-t24/index.html",
+    "href": "posts/wlc/iz02-5to6-t24/index.html",
+    "title": "Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)",
+    "section": "",
+    "text": "2025-08-21\n\n\n\n\nЗадачи 5 и 6\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n0-я грубая прикидка.\nМатематическое ожидание \\[\nE \\xi=\\sum_{j=1}^{12} E U_j-E 6=12 \\times \\frac{1}{2}-6=0.\n\\] Дисперсия (в силу независимости \\(U_j\\)) \\[\nD \\xi=\\sum_{j=1}^{12} D U_j = 12 \\times \\frac{1}{12}=1.\n\\] Но по этим признакам, конечно, нельзя судить про близость распределений."
+  },
+  {
+    "objectID": "posts/wlc/iz03-7-t24/index.html",
+    "href": "posts/wlc/iz03-7-t24/index.html",
+    "title": "Задача 7 (В обоснование техники Box-Muller’а)",
+    "section": "",
+    "text": "Доказать пункты а),б),в)\n\n\nНапомнить определения участвующих понятий и распределений. Необходимо аналитическое решение. Сопроводить его чертежами.\nМожно использовать формулу для вероятности попадания в область."
+  },
+  {
+    "objectID": "posts/wlc/iz04-9-t24/index.html",
+    "href": "posts/wlc/iz04-9-t24/index.html",
+    "title": "Задача 9а - 9б (о свойствах распределения Коши)",
+    "section": "",
+    "text": "2025-08-21\n\n\n\n\nЗадачи 9а - 9б\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "",
     "text": "ostrova-2-link ку-эм-дэ\nostrova-2-link __ эм-дэ\n\n\n\nГамма-распределение \\(\\text{Gamma}\\left(n, \\alpha\\right)\\) с параметрами \\(n\\in\\mathbb{N}\\), \\(\\alpha&gt;0\\), по определению есть распределение с.в. \\(\\xi\\), представимой в виде\n\\[\n\\xi=\\eta_{1}+\\cdots+\\eta_{n} \\quad \\text {где } \\eta_{1}, \\ldots,  \\eta_{n}\n\\text {  - независимые  Exp($\\alpha$) с.в-ны }\n\\]\na ) Показать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид\n\\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\nб ) Написать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\nв ) Выясните, какой командой вызывается \\(\\Gamma(t)\\) в компьютерном пакете, который Вы предпочитаете. Как вычислять её значения в Google Sheets ?\n\n\n\n\nа) Построить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), \\[\n\\begin{aligned}\n& p_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\end{aligned}\n\\]\nпри разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\nб) Предположим, у нас есть программный код, предоставляющий генератор псевдослучайных чисел (ПСЧ) \\[\nX_1,\\ldots,X_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(5, 1\\right)\\)​. Придумайте наиболее простой способ получения ПСЧ \\[\nY_1,\\ldots,Y_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(10, 2\\right)\\). Ответ обоснуйте."
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html#gamma-распределение---вводные-задачи",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html#gamma-распределение---вводные-задачи",
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#gamma-распределение---вводные-задачи",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#gamma-распределение---вводные-задачи",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "",
     "text": "ostrova-2-link ку-эм-дэ\nostrova-2-link __ эм-дэ\n\n\n\nГамма-распределение \\(\\text{Gamma}\\left(n, \\alpha\\right)\\) с параметрами \\(n\\in\\mathbb{N}\\), \\(\\alpha&gt;0\\), по определению есть распределение с.в. \\(\\xi\\), представимой в виде\n\\[\n\\xi=\\eta_{1}+\\cdots+\\eta_{n} \\quad \\text {где } \\eta_{1}, \\ldots,  \\eta_{n}\n\\text {  - независимые  Exp($\\alpha$) с.в-ны }\n\\]\na ) Показать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид\n\\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\nб ) Написать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\nв ) Выясните, какой командой вызывается \\(\\Gamma(t)\\) в компьютерном пакете, который Вы предпочитаете. Как вычислять её значения в Google Sheets ?\n\n\n\n\nа) Построить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), \\[\n\\begin{aligned}\n& p_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\end{aligned}\n\\]\nпри разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\nб) Предположим, у нас есть программный код, предоставляющий генератор псевдослучайных чисел (ПСЧ) \\[\nX_1,\\ldots,X_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(5, 1\\right)\\)​. Придумайте наиболее простой способ получения ПСЧ \\[\nY_1,\\ldots,Y_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(10, 2\\right)\\). Ответ обоснуйте."
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html#пробелы-имеют-значение",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html#пробелы-имеют-значение",
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#пробелы-имеют-значение",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#пробелы-имеют-значение",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "Пробелы имеют значение ?",
     "text": "Пробелы имеют значение ?\nПример ниже оказался достаточно крутым, так как\n\nпервый инклуд вставился буквально (нет пробела между скобками и словом {{ &lt;include …)\nа второй вставился как копи-паст (есть пробел между &lt; и словом include …)\n\n{{&lt;include  _index-mp24-p2.qmd&gt;}}\nsdsa\n\n\nsdsa\n\n---\n\nsd\n---\n\nssd\n\n{{&lt;include _inserted_as_code_md.qmd   &gt;}}"
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html#section",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html#section",
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#section",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#section",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "()",
     "text": "()\nИНТЕРЕСНО, что html-файл при этом создается один общий. То, что в include вставляется в объединенный html-файл\n\nВАЖНО ,\n\nчтобы вставляемые файлы рендерились верно в автономном прогоне, иначе потом ошибку искать долго\nчтобы избежать такого\nERROR: YAMLException: expected a single document in the stream, but found more\nне нужно допускать двух строк подряд вида\n\n\n---\n---\n\nвставляемый файл лучше называть так _file.qmd\nNote that we use an underscore (_) prefix for the included files. You should always use an underscore prefix with included files so that they are automatically ignored (i.e. not treated as standalone files) by a quarto render of a project.\nесли все же в папке есть несколько “не underscore-named” файлов, то на каждый создается html, но в index.html прописывается перенаправление только на первый по алфавиту файл (?) и то без гарантии"
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html#section-1",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html#section-1",
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#section-1",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#section-1",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "()",
     "text": "()\nИз _index-mp24-p2.qmd сделан такой файл _file-to-include_nohtml-output_index-mp24-p2.qmd .\nНиже - стандартный include этого файла.\n. . .\nВставляем короткий файл\n\nна 4 октября опубликовано …"
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html#задачи-1-10",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html#задачи-1-10",
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#задачи-1-10",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#задачи-1-10",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "Задачи 1-10",
     "text": "Задачи 1-10\n\n\nЗадача 1\n​ Показать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид \\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\n\nНаписать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\n\n\n\n\nЗадача 2\nПостроить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), при разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\n\n\n\nЗадача 5\nРассматривается случайная величина \\[\n\\xi=\\sum_{j=1}^{12} U_j-6,\n\\] где \\(U_j,\\quad  j=1, \\ldots, 12,\\) - независимые случайные величины, распределенные равномерно на отрезке \\([0,1]\\).\nКонец короткого файла\n\n. . ."
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html#section-2",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html#section-2",
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#section-2",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#section-2",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "()",
     "text": "()\nНиже - include nounderscore , а точнее, nounderscore_name.qmd\n. . .\nВставляем короткий файл\n\nна 4 октября опубликовано …"
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html#задачи-1-10-1",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html#задачи-1-10-1",
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#задачи-1-10-1",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#задачи-1-10-1",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "Задачи 1-10",
     "text": "Задачи 1-10\n\n\nЗадача 1\n​ Показать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид \\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\n\nНаписать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\n\n\n\n\nЗадача 2\nПостроить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), при разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\n\n\n\nЗадача 5\nРассматривается случайная величина \\[\n\\xi=\\sum_{j=1}^{12} U_j-6,\n\\] где \\(U_j,\\quad  j=1, \\ldots, 12,\\) - независимые случайные величины, распределенные равномерно на отрезке \\([0,1]\\).\nКонец короткого файла\n\n. . ."
   },
   {
-    "objectID": "a-glavnyj_smyslovoj-fajl_edit_template.html#section-3",
-    "href": "a-glavnyj_smyslovoj-fajl_edit_template.html#section-3",
+    "objectID": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#section-3",
+    "href": "sdvinem/a-glavnyj_smyslovoj-fajl_edit_template.html#section-3",
     "title": "Задачи 1-2 - Gamma распределение I",
     "section": "()",
     "text": "()\nзаключительная линия исходного файла"
   },
   {
-    "objectID": "ostrova-2-link.html",
-    "href": "ostrova-2-link.html",
+    "objectID": "sdvinem/ostrova-2-link.html",
+    "href": "sdvinem/ostrova-2-link.html",
     "title": "Острова Острова Острова Острова Архипелаг Острова",
     "section": "",
     "text": "Описание\nПример заимствован из книги …\nчтобы вставить как ссылку"
