@@ -88,14 +88,14 @@
     "href": "posts/u/index__u_0.html",
     "title": "Маленькие отдельные темы и общие понятия",
     "section": "",
-    "text": "2025-11-08\n\n\n\n\nU U U\nНиже - автоматически сгенерированный список страниц в posts\nНа гитхабе - только html версия (docs)\n\n\n\n\n\n\n\n\n\n\nDate\n\n\n\nU универсальные сюжеты\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nNov 8, 2025\n\n\nАсимптотическая нормальность u\n\n\n \n\n\n\n\n\n\nNo matching items"
+    "text": "2025-11-08\n\n\n\n\nU U U\nНиже - автоматически сгенерированный список страниц в posts\nНа гитхабе - только html версия (docs)\n\n\n\n\n\n\n\n\n\n\nDate\n\n\n\nU универсальные сюжеты\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nNov 8, 2025\n\n\nАсимптотическая нормальность\n\n\n \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "archive.html",
     "href": "archive.html",
     "title": "Archive",
     "section": "",
-    "text": "без метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n\n\n\n\n\n\n\n\nМаленькие отдельные темы и общие понятия\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nАсимптотическая нормальность u\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nобразец мини-сайта : Отдельные темы\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 1-4…\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЧто готово и в каком виде ?\n\n\n\n\n\nJan 4, 2010\n\n\n\n\n\nNo matching items"
+    "text": "без метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n\n\n\n\n\n\n\n\nМаленькие отдельные темы и общие понятия\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nАсимптотическая нормальность\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nобразец мини-сайта : Отдельные темы\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 1-4…\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЧто готово и в каком виде ?\n\n\n\n\n\nJan 4, 2010\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -114,9 +114,9 @@
   {
     "objectID": "posts/u/sh/asympt-normalnost.html",
     "href": "posts/u/sh/asympt-normalnost.html",
-    "title": "Асимптотическая нормальность u",
+    "title": "Асимптотическая нормальность",
     "section": "",
-    "text": "2025-11-08\n\n\n\n\nПонятие асимптотической нормальности случайной последовательности\n\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "text": "2025-11-08\n\n\n\n\nПонятие асимптотической нормальности случайной последовательности\n\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n.\nСледует от метить, что заключительная фраза этого определения вводит понятие сходимости по распределению к закону \\(\\mathcal{N}(0,1)\\). То есть, по сути является отдельным определением.\nЗаметим, что общее определение сходимости по распределению к общему (не обязательно непрерывному) вероятностному закону несколько другое.\n."
   },
   {
     "objectID": "posts/wlc/index__wlc_0.html",
