@@ -9,14 +9,14 @@
   {
     "objectID": "sdvinem/nounderscore_name.html",
     "href": "sdvinem/nounderscore_name.html",
-    "title": "Сюжеты в форме posts github pages",
+    "title": "Избр. учебн. мат-лы (ш. для тест.)",
     "section": "",
     "text": ". . .\nВставляем короткий файл\nна 4 октября опубликовано …"
   },
   {
     "objectID": "sdvinem/nounderscore_name.html#задачи-1-10",
     "href": "sdvinem/nounderscore_name.html#задачи-1-10",
-    "title": "Сюжеты в форме posts github pages",
+    "title": "Избр. учебн. мат-лы (ш. для тест.)",
     "section": "Задачи 1-10",
     "text": "Задачи 1-10\n\n\nЗадача 1\n​ Показать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид \\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\n\nНаписать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\n\n\n\n\nЗадача 2\nПостроить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), при разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\n\n\n\nЗадача 5\nРассматривается случайная величина \\[\n\\xi=\\sum_{j=1}^{12} U_j-6,\n\\] где \\(U_j,\\quad  j=1, \\ldots, 12,\\) - независимые случайные величины, распределенные равномерно на отрезке \\([0,1]\\).\nКонец короткого файла\n\n. . ."
   },
@@ -72,23 +72,30 @@
   {
     "objectID": "posts/wlc/help_files.html",
     "href": "posts/wlc/help_files.html",
-    "title": "Сюжеты в форме posts github pages",
+    "title": "Избр. учебн. мат-лы (ш. для тест.)",
     "section": "",
     "text": "Здесь мы\nперечислим\nшпаргалки\nБольшой файл о настройках рендеринга\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\working-status-todo-etc\\help.txt\nзаголовки, баннеры, автор , дата\n….\nесли в корне проекта нет index.qmd,\nто создается index.html, который перенаправляет на about.qmd\n(или на первый по алфавиту документ ?)"
   },
   {
     "objectID": "posts/wlc/help_files.html#рецепт",
     "href": "posts/wlc/help_files.html#рецепт",
-    "title": "Сюжеты в форме posts github pages",
+    "title": "Избр. учебн. мат-лы (ш. для тест.)",
     "section": "Рецепт",
     "text": "Рецепт\nPDF - iframe - PDF - mathpix\niframe лучше сохранились в pdf в хроме. landscape a3\nудалось уменьшить размер. iframe вошли по ширине\nпотом в матпикс - экспорт в mathpix markdown\n\n."
   },
   {
-    "objectID": "nonpub_index_top2.html",
-    "href": "nonpub_index_top2.html",
-    "title": "zadachi для t",
+    "objectID": "posts/u/index__u_0.html",
+    "href": "posts/u/index__u_0.html",
+    "title": "Маленькие отдельные темы и общие понятия",
     "section": "",
-    "text": "Date\n\n\n\nСюжет\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n \n\n\nбез метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n \n\n\n\n\n\n\n \n\n\nНа примере Задачи 7 (В обоснование техники Box-Muller’а)\n\n\n \n\n\n\n\n\n\nNov 8, 2025\n\n\nобразец мини-сайта : Отдельные темы\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-4…\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nПример - Задача 9а - 9б (о свойствах распределения Коши) - 2 pdf\n\n\n \n\n\n\n\n\n\nJan 4, 2010\n\n\nЧто готово и в каком виде ?\n\n\nto test\n\n\n\n\n\n\nNo matching items"
+    "text": "2025-11-08\n\n\n\n\nU U U\nНиже - автоматически сгенерированный список страниц в posts\nНа гитхабе - только html версия (docs)\n\n\n\n\n\n\n\n\n\n\nDate\n\n\n\nU универсальные сюжеты\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nNov 8, 2025\n\n\nАсимптотическая нормальность u\n\n\n \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "без метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n\n\n\n\n\n\n\n\nМаленькие отдельные темы и общие понятия\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nАсимптотическая нормальность u\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nобразец мини-сайта : Отдельные темы\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 1-4…\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЧто готово и в каком виде ?\n\n\n\n\n\nJan 4, 2010\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -98,15 +105,15 @@
     "text": "Здесь отдельные темы"
   },
   {
-    "objectID": "archive.html",
-    "href": "archive.html",
-    "title": "Archive",
+    "objectID": "nonpub_index_top2.html",
+    "href": "nonpub_index_top2.html",
+    "title": "zadachi для t",
     "section": "",
-    "text": "без метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n\n\n\n\n\n\n\n\nАсимптотическая нормальность u\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nобразец мини-сайта : Отдельные темы\n\n\n\n\n\nNov 8, 2025\n\n\n\n\n\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 1-4…\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЧто готово и в каком виде ?\n\n\n\n\n\nJan 4, 2010\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\n\nСюжет\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n \n\n\nбез метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n \n\n\n\n\n\n\n \n\n\nНа примере Задачи 7 (В обоснование техники Box-Muller’а)\n\n\n \n\n\n\n\n\n\nNov 8, 2025\n\n\nобразец мини-сайта : Отдельные темы\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-4…\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nПример - Задача 9а - 9б (о свойствах распределения Коши) - 2 pdf\n\n\n \n\n\n\n\n\n\nJan 4, 2010\n\n\nЧто готово и в каком виде ?\n\n\nto test\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/u/asympt-normalnost.html",
-    "href": "posts/u/asympt-normalnost.html",
+    "objectID": "posts/u/sh/asympt-normalnost.html",
+    "href": "posts/u/sh/asympt-normalnost.html",
     "title": "Асимптотическая нормальность u",
     "section": "",
     "text": "2025-11-08\n\n\n\n\nПонятие асимптотической нормальности случайной последовательности\n\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
