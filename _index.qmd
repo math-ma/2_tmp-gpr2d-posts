@@ -1,0 +1,21 @@
+---
+#	D:\a\q\zadachi-4t\index.qmd
+#
+title: "zadachi для t"
+listing:
+  contents: "posts/wlc"
+  sort: "date desc"
+#  type: default
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  table-hover: true
+  field-display-names:
+    title: "Сюжет"
+page-layout: full
+# title-block-banner: false
+title-block-banner: true
+---
+
+
