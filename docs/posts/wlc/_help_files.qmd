@@ -1,0 +1,87 @@
+
+---
+
+Здесь мы 
+
+перечислим
+
+**шпаргалки**
+
+```
+#       без метадата help_files.qmd - (без underscore) - эта строка отображается в листинге
+#
+#  	https://quarto.org/docs/websites/website-navigation.html#top-navigation
+#	https://quarto.org/docs/authoring/title-blocks.html
+#	https://quarto.org/docs/projects/quarto-projects.html#shared-metadata
+#     ВАЖНО:
+#	https://quarto.org/docs/websites/website-drafts.html
+```
+
+
+
+```
+d:\a\py_loc_lnk\my_quarto\test-100-topics.github.io\posts\tricks-4-quadro\index.qmd
+d:\a\py_loc_lnk\my_quarto\test-100-topics.github.io\posts\tricks-4-quadro\new_1_hardlinking.md
+
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\README.md
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_todo_howto.md
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_save2_index_very_informative.qmd
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_index-save_tmp.qmd
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_done_understood.md
+
+папка с pdf
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\gdoc-24\_tsbl_iz_24_g_doc_pdf_v2\ 
+
+md iz g doc
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\gdoc-24\_tsbl_iz_24_g_doc.md
+
+папка с tex  (скрытая от рендеринга)
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_tex_tmp_my\
+
+```
+
+
+Большой файл о настройках рендеринга
+
+`d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\working-status-todo-etc\help.txt`
+
+
+заголовки, баннеры, автор , дата
+
+....
+
+
+если в корне проекта нет index.qmd,             
+то создается index.html, который перенаправляет на about.qmd
+
+(или на первый по алфавиту документ ?)
+
+
+
+---
+
+## Рецепт
+
+
+
+**PDF - iframe - PDF - 
+mathpix**
+
+
+
+
+iframe  лучше сохранились в pdf в хроме. **landscape a3**
+
+удалось уменьшить размер. iframe   вошли по ширине
+
+потом в матпикс - экспорт в  mathpix markdown
+
+
+
+---
+
+
+
+ . 
+
+

@@ -28,46 +28,67 @@
     "text": "to test\n\n2010-01-04\n\n\n\n\nЗадачи индивидуальные\nЗадачи 1- 3 здесь\n4 ю отскриншотить у Баринова\nНачало задачи 5 в quatro\nЗадача 5-6 = страница 3 в новом гугл докусенте\nред.25 _ таблица индивидуальных  заданий (МагоЛего 2024)  Избр р Ст Мод   (А.Д.  Манита) pub\nlink\nhttps://docs.google.com/document/d/1sZYGwpoCKQQpGdvCUniOzy_qhN0vkpi2gA0NPPVNFu8/edit?tab=t.0\nМожно просто выдрать PDF, а можно через матпикс\n\n\n\nдля индивидуальных задач\nчтобы не появлялся баннер,\nи не нужная для индивидуальных задач верхняя полоска с навигацией navbar\nкомментарим и редактируем в\nd:\\a\\q\\zadachi-4t\\posts\\wlc\\iz03-7-t24\\index.md\nd:\\a\\q\\zadachi-4t\\posts\\_metadata.yml\nd:\\a\\q\\zadachi-4t\\_quarto.yml\n\n\nindex\nSubfolder\nposts\\welcome\\subpost1\\\nc:\\Users\\M_local_ADM\\py_nb_local\\my_quarto\\models-4t\\posts\\welcome\\subpost1\\comm_index._qmd\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/wlc/iz03-8-t24/index.html",
-    "href": "posts/wlc/iz03-8-t24/index.html",
-    "title": "Задача 8а - 8б (генерация в духе метода фон Неймана)",
+    "objectID": "posts/wlc/iz03-7-t24_incl_image__include-help_linking/index___iz03-7-t24.html",
+    "href": "posts/wlc/iz03-7-t24_incl_image__include-help_linking/index___iz03-7-t24.html",
+    "title": "На примере Задачи 7 (В обоснование техники Box-Muller’а)",
     "section": "",
-    "text": "2025-08-21\n\n\n\n\nЗадачи 8а - 8б\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "text": "Аннотация образца.\nвставляем png (из google-doc) как отдельный файл\nвставляем содержимого внешнего файла, стоящего в директории выше (help, справка, спаргалки, список ссылок или литературы)\nДоказать пункты а),б),в)\nНапомнить определения участвующих понятий и распределений. Необходимо аналитическое решение. Сопроводить его чертежами.\nМожно использовать формулу для вероятности попадания в область."
   },
   {
-    "objectID": "posts/wlc/iz02-5to6-t24/index3t.html",
-    "href": "posts/wlc/iz02-5to6-t24/index3t.html",
-    "title": "Генерация N(0,1) - приближенный, но весьма экономный, способ",
-    "section": "",
-    "text": "2025-08-21\n\n\n\n\nЗадача 5\nРассматривается случайная величина \\[\n\\xi=\\sum_{j=1}^{12} U_j-6,\n\\] где \\(U_j,\\quad  j=1, \\ldots, 12,\\) - независимые случайные величины, распределенные равномерно на отрезке \\([0,1]\\).\nОказывается, что случайная величина \\(\\xi\\) может быть хорошим приближением для стандартного нормального распределения.\n0-я грубая прикидка.\nМатематическое ожидание \\[\nE \\xi=\\sum_{j=1}^{12} E U_j-E 6=12 \\times \\frac{1}{2}-6=0.\n\\] Дисперсия (в силу независимости \\(U_j\\)) \\[\nD \\xi=\\sum_{j=1}^{12} D U_j = 12 \\times \\frac{1}{12}=1.\n\\] Но по этим признакам, конечно, нельзя судить про близость распределений.\n\nРазличие между распределениями можно оценивать\n\nв метриках (их существует много), получая количественное представление о приближении\nили визуально с помощью чертежей, т.е., качественно\n\n\nИнтуитивное пояснение, почему распределение \\(\\xi\\) близко \\(\\mathcal{N}(0,1)\\), базируется на центральной предельной теореме."
+    "objectID": "posts/wlc/iz03-7-t24_incl_image__include-help_linking/index___iz03-7-t24.html#техническое",
+    "href": "posts/wlc/iz03-7-t24_incl_image__include-help_linking/index___iz03-7-t24.html#техническое",
+    "title": "На примере Задачи 7 (В обоснование техники Box-Muller’а)",
+    "section": "Техническое",
+    "text": "Техническое\nВставим qmd-файл, которые на уровень выше\n(он вставится буквально as is  и будет от render ен )\n.\n\nЗдесь мы\nперечислим\nшпаргалки\n#       без метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n#\n#   https://quarto.org/docs/websites/website-navigation.html#top-navigation\n#   https://quarto.org/docs/authoring/title-blocks.html\n#   https://quarto.org/docs/projects/quarto-projects.html#shared-metadata\n#     ВАЖНО:\n#   https://quarto.org/docs/websites/website-drafts.html\nd:\\a\\py_loc_lnk\\my_quarto\\test-100-topics.github.io\\posts\\tricks-4-quadro\\index.qmd\nd:\\a\\py_loc_lnk\\my_quarto\\test-100-topics.github.io\\posts\\tricks-4-quadro\\new_1_hardlinking.md\n\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\wlc\\iz02-5to6-t24\\README.md\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\wlc\\iz02-5to6-t24\\_todo_howto.md\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\wlc\\iz02-5to6-t24\\_save2_index_very_informative.qmd\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\wlc\\iz02-5to6-t24\\_index-save_tmp.qmd\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\wlc\\iz02-5to6-t24\\_done_understood.md\n\nпапка с pdf\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\wlc\\gdoc-24\\_tsbl_iz_24_g_doc_pdf_v2\\ \n\nmd iz g doc\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\wlc\\gdoc-24\\_tsbl_iz_24_g_doc.md\n\nпапка с tex  (скрытая от рендеринга)\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\wlc\\iz02-5to6-t24\\_tex_tmp_my\\\n\nБольшой файл о настройках рендеринга\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\working-status-todo-etc\\help.txt\nзаголовки, баннеры, автор , дата\n….\nесли в корне проекта нет index.qmd,\nто создается index.html, который перенаправляет на about.qmd\n(или на первый по алфавиту документ ?)"
   },
   {
-    "objectID": "posts/wlc/iz01-1to4-mp-24/index_mp24_p2.html",
-    "href": "posts/wlc/iz01-1to4-mp-24/index_mp24_p2.html",
-    "title": "Задачи 1-4…",
-    "section": "",
-    "text": "2025-08-21\nна 4 октября опубликовано …"
+    "objectID": "posts/wlc/iz03-7-t24_incl_image__include-help_linking/index___iz03-7-t24.html#рецепт",
+    "href": "posts/wlc/iz03-7-t24_incl_image__include-help_linking/index___iz03-7-t24.html#рецепт",
+    "title": "На примере Задачи 7 (В обоснование техники Box-Muller’а)",
+    "section": "Рецепт",
+    "text": "Рецепт\nPDF - iframe - PDF - mathpix\niframe лучше сохранились в pdf в хроме. landscape a3\nудалось уменьшить размер. iframe вошли по ширине\nпотом в матпикс - экспорт в mathpix markdown\n\n.\n.\nвставка завершена\nссылка на тот же файл - ../_help_files.qmd\nссылка на копию того тот же файла (без underscore) - ../help_files.qmd\nссылка на html, не существующий в момент написания этого MD,\n../help_files.HTML"
   },
   {
-    "objectID": "posts/wlc/iz01-1to4-mp-24/index_mp24_p2.html#задачи-1-10",
-    "href": "posts/wlc/iz01-1to4-mp-24/index_mp24_p2.html#задачи-1-10",
-    "title": "Задачи 1-4…",
-    "section": "Задачи 1-10",
-    "text": "Задачи 1-10"
+    "objectID": "posts/wlc/iz02-5to6-t24_TWO-inds_plus-PDF/index0t.html",
+    "href": "posts/wlc/iz02-5to6-t24_TWO-inds_plus-PDF/index0t.html",
+    "title": "ind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)",
+    "section": "",
+    "text": "2025-08-21\n\n\n\n\nЗадачи 5 и 6\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n0-я грубая прикидка.\nМатематическое ожидание \\[\nE \\xi=\\sum_{j=1}^{12} E U_j-E 6=12 \\times \\frac{1}{2}-6=0.\n\\] Дисперсия (в силу независимости \\(U_j\\)) \\[\nD \\xi=\\sum_{j=1}^{12} D U_j = 12 \\times \\frac{1}{12}=1.\n\\] Но по этим признакам, конечно, нельзя судить про близость распределений."
   },
   {
-    "objectID": "posts/wlc/index.html",
-    "href": "posts/wlc/index.html",
-    "title": "Индивидуальные задания",
+    "objectID": "posts/wlc/iz01-1to2-t24_(chisto cp publ)/index_mp24_p2_edit.html",
+    "href": "posts/wlc/iz01-1to2-t24_(chisto cp publ)/index_mp24_p2_edit.html",
+    "title": "Задачи 1-2 - Gamma распределение I",
     "section": "",
-    "text": "2025-08-01\n\n\n\nThis is the first post in a Quarto blog. Welcome!\n![](thumbnail.jpg)\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\n\n\n\n\n\n\n\nDate\n\n\n\nСюжет wlc\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n \n\n\nЗадача 7 (В обоснование техники Box-Muller’а)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-4…\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nГенерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадача 8а - 8б (генерация в духе метода фон Неймана)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадача 9а - 9б (о свойствах распределения Коши)\n\n\n \n\n\n\n\n\n\nJan 4, 2010\n\n\nЧто готово и в каком виде ?\n\n\nto test\n\n\n\n\n\n\nNo matching items"
+    "text": "2025-08-21"
+  },
+  {
+    "objectID": "posts/wlc/iz01-1to2-t24_(chisto cp publ)/index_mp24_p2_edit.html#gamma-распределение---вводные-задачи",
+    "href": "posts/wlc/iz01-1to2-t24_(chisto cp publ)/index_mp24_p2_edit.html#gamma-распределение---вводные-задачи",
+    "title": "Задачи 1-2 - Gamma распределение I",
+    "section": "Gamma распределение - вводные задачи",
+    "text": "Gamma распределение - вводные задачи\n\n\nЗадача 1\nГамма-распределение \\(\\text{Gamma}\\left(n, \\alpha\\right)\\) с параметрами \\(n\\in\\mathbb{N}\\), \\(\\alpha&gt;0\\), по определению есть распределение с.в. \\(\\xi\\), представимой в виде\n\\[\n\\xi=\\eta_{1}+\\cdots+\\eta_{n} \\quad \\text {где } \\eta_{1}, \\ldots,  \\eta_{n}\n\\text {  - независимые  Exp($\\alpha$) с.в-ны }\n\\]\n\nПоказать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид\n\n\\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\nб) Написать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\nв) Выясните, какой командой вызывается \\(\\Gamma(t)\\) в компьютерном пакете, который Вы предпочитаете. Как вычислять её значения в Google Sheets ?\n\n\n\nЗадача 2\nа) Построить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), \\[\n\\begin{aligned}\n& p_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\end{aligned}\n\\]\nпри разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\nб) Предположим, у нас есть программный код, предоставляющий генератор псевдослучайных чисел (ПСЧ) \\[\nX_1,\\ldots,X_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(5, 1\\right)\\)​. Придумайте наиболее простой способ получения ПСЧ \\[\nY_1,\\ldots,Y_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(10, 2\\right)\\). Ответ обоснуйте."
+  },
+  {
+    "objectID": "posts/wlc/help_files.html",
+    "href": "posts/wlc/help_files.html",
+    "title": "zadachi posts github",
+    "section": "",
+    "text": "Здесь мы\nперечислим\nшпаргалки\nБольшой файл о настройках рендеринга\nd:\\a\\quarto\\templates-my-github\\2post_tuned-gp_r2d\\posts\\working-status-todo-etc\\help.txt\nзаголовки, баннеры, автор , дата\n….\nесли в корне проекта нет index.qmd,\nто создается index.html, который перенаправляет на about.qmd\n(или на первый по алфавиту документ ?)"
+  },
+  {
+    "objectID": "posts/wlc/help_files.html#рецепт",
+    "href": "posts/wlc/help_files.html#рецепт",
+    "title": "zadachi posts github",
+    "section": "Рецепт",
+    "text": "Рецепт\nPDF - iframe - PDF - mathpix\niframe лучше сохранились в pdf в хроме. landscape a3\nудалось уменьшить размер. iframe вошли по ширине\nпотом в матпикс - экспорт в mathpix markdown\n\n."
   },
   {
     "objectID": "archive.html",
     "href": "archive.html",
     "title": "Archive",
     "section": "",
-    "text": "Задачи 1-2 - Gamma распределение I\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 1-4…\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nГенерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nИндивидуальные задания\n\n\n\n\n\nAug 1, 2025\n\n\n\n\n\n\n\nЧто готово и в каком виде ?\n\n\n\n\n\nJan 4, 2010\n\n\n\n\n\nNo matching items"
+    "text": "без метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n\n\n\n\n\n\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nЗадачи 1-4…\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n\n\n\nAug 21, 2025\n\n\n\n\n\n\n\nИндивидуальные задания\n\n\n\n\n\nAug 1, 2025\n\n\n\n\n\n\n\nЧто готово и в каком виде ?\n\n\n\n\n\nJan 4, 2010\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -77,44 +98,44 @@
     "text": "Здесь определения и коротие описания некоторых моделей и некоторых важных примеров"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "nonpub_index_top.html",
+    "href": "nonpub_index_top.html",
     "title": "zadachi для t",
     "section": "",
-    "text": "Date\n\n\n\nСюжет\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n \n\n\nЗадача 7 (В обоснование техники Box-Muller’а)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-4…\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nГенерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадача 8а - 8б (генерация в духе метода фон Неймана)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадача 9а - 9б (о свойствах распределения Коши)\n\n\n \n\n\n\n\n\n\nAug 1, 2025\n\n\nИндивидуальные задания\n\n\n \n\n\n\n\n\n\nJan 4, 2010\n\n\nЧто готово и в каком виде ?\n\n\nto test\n\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\n\nСюжет\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n \n\n\nбез метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n \n\n\n\n\n\n\n \n\n\nНа примере Задачи 7 (В обоснование техники Box-Muller’а)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-4…\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nПример - Задача 9а - 9б (о свойствах распределения Коши) - 2 pdf\n\n\n \n\n\n\n\n\n\nAug 1, 2025\n\n\nИндивидуальные задания\n\n\n \n\n\n\n\n\n\nJan 4, 2010\n\n\nЧто готово и в каком виде ?\n\n\nto test\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/wlc/iz01-1to2-t24/index_mp24_p2_edit.html",
-    "href": "posts/wlc/iz01-1to2-t24/index_mp24_p2_edit.html",
-    "title": "Задачи 1-2 - Gamma распределение I",
+    "objectID": "posts/wlc/index__wlc_0.html",
+    "href": "posts/wlc/index__wlc_0.html",
+    "title": "Индивидуальные задания",
     "section": "",
-    "text": "2025-08-21"
+    "text": "2025-08-01\n\n\n\nThis is the first post in a Quarto blog. Welcome!\n![](thumbnail.jpg)\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\n\n\n\n\n\n\n\nDate\n\n\n\nСюжет wlc\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n \n\n\nбез метадата help_files.qmd - (без underscore) - эта строка отображается в листинге\n\n\n \n\n\n\n\n\n\n \n\n\nНа примере Задачи 7 (В обоснование техники Box-Muller’а)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-2 - Gamma распределение I\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nЗадачи 1-4…\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nind30 в папке iz02 (insert PDF) _ Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ\n\n\n \n\n\n\n\n\n\nAug 21, 2025\n\n\nПример - Задача 9а - 9б (о свойствах распределения Коши) - 2 pdf\n\n\n \n\n\n\n\n\n\nJan 4, 2010\n\n\nЧто готово и в каком виде ?\n\n\nto test\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/wlc/iz01-1to2-t24/index_mp24_p2_edit.html#gamma-распределение---вводные-задачи",
-    "href": "posts/wlc/iz01-1to2-t24/index_mp24_p2_edit.html#gamma-распределение---вводные-задачи",
-    "title": "Задачи 1-2 - Gamma распределение I",
-    "section": "Gamma распределение - вводные задачи",
-    "text": "Gamma распределение - вводные задачи\n\n\nЗадача 1\nГамма-распределение \\(\\text{Gamma}\\left(n, \\alpha\\right)\\) с параметрами \\(n\\in\\mathbb{N}\\), \\(\\alpha&gt;0\\), по определению есть распределение с.в. \\(\\xi\\), представимой в виде\n\\[\n\\xi=\\eta_{1}+\\cdots+\\eta_{n} \\quad \\text {где } \\eta_{1}, \\ldots,  \\eta_{n}\n\\text {  - независимые  Exp($\\alpha$) с.в-ны }\n\\]\n\nПоказать, что плотность \\(\\text{Gamma}(n, \\alpha)\\) имеет вид\n\n\\[\np_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\]\n​ Требуется аналитическое решение.\nб) Написать определение гамма-функции Эйлера \\(\\Gamma(t)\\). При каких значениях аргумента она определена?\nв) Выясните, какой командой вызывается \\(\\Gamma(t)\\) в компьютерном пакете, который Вы предпочитаете. Как вычислять её значения в Google Sheets ?\n\n\n\nЗадача 2\nа) Построить графики плотности распределения \\(\\text{Gamma}\\left(n, \\alpha\\right)\\), \\[\n\\begin{aligned}\n& p_{\\xi}(x)=\\left\\{\\begin{array}{l}\n\\frac{\\alpha^{n} x^{n-1}}{(n-1)!} \\;  e^{-\\alpha x},  \\quad x\\geq 0\\\\\n0, \\quad x&lt;0 \\, .\n\\end{array}\\right.\n\\end{aligned}\n\\]\nпри разных значениях параметров \\((n,\\alpha)\\in\\mathbb{N}\\times (0,+\\infty)\\).\nНапример, фиксируем \\(\\alpha\\) и строим серию графиков для различных \\(n\\).\nИ наоборот, фиксируем \\(n\\) и строим серию графиков для различных \\(\\alpha\\) .\nб) Предположим, у нас есть программный код, предоставляющий генератор псевдослучайных чисел (ПСЧ) \\[\nX_1,\\ldots,X_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(5, 1\\right)\\)​. Придумайте наиболее простой способ получения ПСЧ \\[\nY_1,\\ldots,Y_m,\\ldots\n\\] отвечающих распределению \\(\\text{Gamma}\\left(10, 2\\right)\\). Ответ обоснуйте."
-  },
-  {
-    "objectID": "posts/wlc/iz02-5to6-t24/index.html",
-    "href": "posts/wlc/iz02-5to6-t24/index.html",
-    "title": "Задачи 5-6 про один способ генерации распределения, близкого к N(0,1)",
+    "objectID": "posts/wlc/iz01-1to4-mp-24_(tmp_razvitija-net)/index_mp24_p2.html",
+    "href": "posts/wlc/iz01-1to4-mp-24_(tmp_razvitija-net)/index_mp24_p2.html",
+    "title": "Задачи 1-4…",
     "section": "",
-    "text": "2025-08-21\n\n\n\n\nЗадачи 5 и 6\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n0-я грубая прикидка.\nМатематическое ожидание \\[\nE \\xi=\\sum_{j=1}^{12} E U_j-E 6=12 \\times \\frac{1}{2}-6=0.\n\\] Дисперсия (в силу независимости \\(U_j\\)) \\[\nD \\xi=\\sum_{j=1}^{12} D U_j = 12 \\times \\frac{1}{12}=1.\n\\] Но по этим признакам, конечно, нельзя судить про близость распределений."
+    "text": "2025-08-21\nна 4 октября опубликовано …"
   },
   {
-    "objectID": "posts/wlc/iz03-7-t24/index.html",
-    "href": "posts/wlc/iz03-7-t24/index.html",
-    "title": "Задача 7 (В обоснование техники Box-Muller’а)",
+    "objectID": "posts/wlc/iz01-1to4-mp-24_(tmp_razvitija-net)/index_mp24_p2.html#задачи-1-10",
+    "href": "posts/wlc/iz01-1to4-mp-24_(tmp_razvitija-net)/index_mp24_p2.html#задачи-1-10",
+    "title": "Задачи 1-4…",
+    "section": "Задачи 1-10",
+    "text": "Задачи 1-10"
+  },
+  {
+    "objectID": "posts/wlc/iz02-5to6-t24_TWO-inds_plus-PDF/index3t.html",
+    "href": "posts/wlc/iz02-5to6-t24_TWO-inds_plus-PDF/index3t.html",
+    "title": "ind3t в папке iz02 _ Генерация N(0,1) - приближенный, но весьма экономный, способ",
     "section": "",
-    "text": "Доказать пункты а),б),в)\n\n\nНапомнить определения участвующих понятий и распределений. Необходимо аналитическое решение. Сопроводить его чертежами.\nМожно использовать формулу для вероятности попадания в область."
+    "text": "2025-08-21\n\n\n\n\nЗадача 5\nРассматривается случайная величина \\[\n\\xi=\\sum_{j=1}^{12} U_j-6,\n\\] где \\(U_j,\\quad  j=1, \\ldots, 12,\\) - независимые случайные величины, распределенные равномерно на отрезке \\([0,1]\\).\nОказывается, что случайная величина \\(\\xi\\) может быть хорошим приближением для стандартного нормального распределения.\n0-я грубая прикидка.\nМатематическое ожидание \\[\nE \\xi=\\sum_{j=1}^{12} E U_j-E 6=12 \\times \\frac{1}{2}-6=0.\n\\] Дисперсия (в силу независимости \\(U_j\\)) \\[\nD \\xi=\\sum_{j=1}^{12} D U_j = 12 \\times \\frac{1}{12}=1.\n\\] Но по этим признакам, конечно, нельзя судить про близость распределений.\n\nРазличие между распределениями можно оценивать\n\nв метриках (их существует много), получая количественное представление о приближении\nили визуально с помощью чертежей, т.е., качественно\n\n\nИнтуитивное пояснение, почему распределение \\(\\xi\\) близко \\(\\mathcal{N}(0,1)\\), базируется на центральной предельной теореме."
   },
   {
-    "objectID": "posts/wlc/iz04-9-t24/index.html",
-    "href": "posts/wlc/iz04-9-t24/index.html",
-    "title": "Задача 9а - 9б (о свойствах распределения Коши)",
+    "objectID": "posts/wlc/iz04-9-t24_insert-2-pdf-files/index__iz04-9-t24_insert-2pdfs.html",
+    "href": "posts/wlc/iz04-9-t24_insert-2-pdf-files/index__iz04-9-t24_insert-2pdfs.html",
+    "title": "Пример - Задача 9а - 9б (о свойствах распределения Коши) - 2 pdf",
     "section": "",
     "text": "2025-08-21\n\n\n\n\nЗадачи 9а - 9б\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },

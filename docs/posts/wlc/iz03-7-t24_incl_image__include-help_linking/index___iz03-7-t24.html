@@ -8,7 +8,7 @@
 
 <meta name="author" content="">
 
-<title>Задача 7 (В обоснование техники Box-Muller’а) – zadachi posts github</title>
+<title>На примере Задачи 7 (В обоснование техники Box-Muller’а) – zadachi posts github</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">Задача 7 (В обоснование техники Box-Muller’а)</h1></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">На примере Задачи 7 (В обоснование техники Box-Muller’а)</h1></header>
 
 <header id="title-block-header">
 
@@ -90,6 +90,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><em>Аннотация образца.</em></p>
+<p>вставляем png (из google-doc) как отдельный файл</p>
+<p>вставляем содержимого внешнего файла, стоящего в директории выше (help, справка, спаргалки, список ссылок или литературы)</p>
 <!-- 
 
 ### Задача 7
@@ -105,8 +108,66 @@ a -->
 <p>Можно использовать формулу для вероятности попадания в область.</p>
 <hr>
 <!-- a -->
+<section id="техническое" class="level2">
+<h2 class="anchored" data-anchor-id="техническое">Техническое</h2>
+<p>Вставим qmd-файл, которые на уровень выше</p>
+<p><code>(он вставится буквально as is  и будет от render ен )</code></p>
+<p>.</p>
+<hr>
+<p>Здесь мы</p>
+<p>перечислим</p>
+<p><strong>шпаргалки</strong></p>
+<pre><code>#       без метадата help_files.qmd - (без underscore) - эта строка отображается в листинге
+#
+#   https://quarto.org/docs/websites/website-navigation.html#top-navigation
+#   https://quarto.org/docs/authoring/title-blocks.html
+#   https://quarto.org/docs/projects/quarto-projects.html#shared-metadata
+#     ВАЖНО:
+#   https://quarto.org/docs/websites/website-drafts.html</code></pre>
+<pre><code>d:\a\py_loc_lnk\my_quarto\test-100-topics.github.io\posts\tricks-4-quadro\index.qmd
+d:\a\py_loc_lnk\my_quarto\test-100-topics.github.io\posts\tricks-4-quadro\new_1_hardlinking.md
+
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\README.md
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_todo_howto.md
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_save2_index_very_informative.qmd
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_index-save_tmp.qmd
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_done_understood.md
+
+папка с pdf
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\gdoc-24\_tsbl_iz_24_g_doc_pdf_v2\ 
+
+md iz g doc
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\gdoc-24\_tsbl_iz_24_g_doc.md
+
+папка с tex  (скрытая от рендеринга)
+d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\wlc\iz02-5to6-t24\_tex_tmp_my\
+</code></pre>
+<p>Большой файл о настройках рендеринга</p>
+<p><code>d:\a\quarto\templates-my-github\2post_tuned-gp_r2d\posts\working-status-todo-etc\help.txt</code></p>
+<p>заголовки, баннеры, автор , дата</p>
+<p>….</p>
+<p>если в корне проекта нет index.qmd,<br>
+то создается index.html, который перенаправляет на about.qmd</p>
+<p>(или на первый по алфавиту документ ?)</p>
+<hr>
+</section>
+<section id="рецепт" class="level2">
+<h2 class="anchored" data-anchor-id="рецепт">Рецепт</h2>
+<p><strong>PDF - iframe - PDF - mathpix</strong></p>
+<p>iframe лучше сохранились в pdf в хроме. <strong>landscape a3</strong></p>
+<p>удалось уменьшить размер. iframe вошли по ширине</p>
+<p>потом в матпикс - экспорт в mathpix markdown</p>
+<hr>
+<p>.</p>
+<p>.</p>
+<p>вставка завершена</p>
+<p>ссылка на тот же файл - <a href="../_help_files.qmd"><code>../_help_files.qmd</code></a></p>
+<p>ссылка на копию того тот же файла (без underscore) - <a href="../../../posts/wlc/help_files.html"><code>../help_files.qmd</code></a></p>
+<p>ссылка на html, не существующий в момент написания этого MD,<br>
+<a href="../help_files.html"><code>../help_files.HTML</code></a></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
